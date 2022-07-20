@@ -1,0 +1,58 @@
+
+Body {
+	
+}
+#banner{
+	width: 100%;
+}
+
+.principal{
+	background: #FFFAFA
+}
+
+.titulo-principal{
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+
+P {
+	text-align: center;
+}
+
+#pastel {
+	font-size:20px
+
+}
+
+strong {
+	   color: IndianRed;
+}
+
+.itens{
+	font-style: italic;
+	font-size:29px
+}
+
+.doar{
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+
+.imagemneve {
+	width: 30%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    margin-right: 20%;
+}
+
+
+
